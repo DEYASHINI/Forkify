@@ -24,7 +24,7 @@ Other resources : dist/img folder
 
 
 
-Forkify API API CALLS
+Forkify API CALLS
 
 "resources" package handles all the api calls directly from 3rd party.
 
